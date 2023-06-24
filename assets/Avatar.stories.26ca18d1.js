@@ -1,0 +1,2 @@
+import{A as t}from"./index.fe4bc658.js";import"./index.3691f679.js";import"./iframe.367f18f2.js";import"./index.9b3121cc.js";import"./jsx-runtime.16c524ba.js";const m={title:"Data display/Avatar",component:t,args:{src:"https://github.com/rjsmatos98.png",alt:"Raimundo Santos"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},n=["Primary","WithFallback"];export{p as Primary,c as WithFallback,n as __namedExportsOrder,m as default};
+//# sourceMappingURL=Avatar.stories.26ca18d1.js.map
